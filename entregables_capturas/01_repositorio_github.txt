@@ -1,4 +1,0 @@
-Repositorio de referencia del taller:
-
-(Reemplaza por el enlace de TU fork en GitHub)
-https://github.com/jdmartinev/TallerIA_PI
