@@ -1,6 +1,5 @@
-*.pyc
 __pycache__/
-*.sqlite3
+*.pyc
 db.sqlite3
 .env
 openAI.env
